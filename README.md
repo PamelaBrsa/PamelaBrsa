@@ -1,7 +1,5 @@
-### Olá! Bem-vindo ao meu GitHub. Eu sou a Pamela
+### Olá, eu sou a Pamela!
 
-
-Here are some ideas to get you started:
 
 - 🔄 Atualmente estou em transição de carreira
 - 👩🏻‍💻 Cursando Análise e Desenvolvimento de Sistemas
