@@ -24,9 +24,15 @@
 
 ##
 
-<div align="center">
+<div >
   <a href="https://github.com/pamelabrsa">
   <img src="https://github-readme-stats.vercel.app/api?username=pamelabrsa&show_icons=true&theme=radical"/>
+</div>
+
+##
+
+<div >
+  <a href="https://github.com/pamelabrsa">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelabrsa&layout=compact"/>
 </div>
 
